@@ -1,0 +1,10 @@
+{
+  "description": "Reserved subdomain for Pubudu",
+  "domain": "pubudu",
+  "owner": {
+    "email": "pubudutesla@example.com"
+  },
+  "record": {
+    "CNAME": "pubudutesla.github.io"
+  }
+}
